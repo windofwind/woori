@@ -1,0 +1,4 @@
+[submodule "qooxdoo"]
+	path = qooxdoo
+	url = https://windofwind@github.com/windofwind/qooxdoo.git
+	branch = 4_1
